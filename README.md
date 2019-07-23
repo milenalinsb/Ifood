@@ -5,9 +5,9 @@
 <li>Os alunos podem ser filtrados pela busca das informações gerais ou por cada campo específico que são: nome, curso, matricula e status </li>
 </ul>
 Exemplos: 
- <blockquote> http://127.0.0.1:8000/api/student/?search=20161230011
+ <blockquote> http://127.0.0.1:8000/api/student/?search=20161230011<br>
  http://127.0.0.1:8000/api/student/?name=Maria
-http://127.0.0.1:8000/api/student/?course=Informática
+ http://127.0.0.1:8000/api/student/?course=Informática
 </blockquote>
   
 <h3>IFOOD</h3>
