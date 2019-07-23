@@ -14,3 +14,8 @@ Exemplos:
 <ul>
 <li>As solicitações funcionam da mesma forma, porém a pesquisa pelas informações gerais são com as informações dos campos: data, tipo da refeição e status. Já pelas informações específicas são pelos campos: aluno, data, tipo, estudante e professor. </li>
 </ul>
+Exemplos: 
+ <blockquote> http://127.0.0.1:8000/api/request/?search=1<br>
+ http://127.0.0.1:8000/api/student/?name=Maria<br>
+ http://127.0.0.1:8000/api/student/?course=Informática
+</blockquote>
