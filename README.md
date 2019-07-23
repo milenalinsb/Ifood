@@ -3,8 +3,11 @@
 <h3>EDU</h3>
 <ul>
 <li>Os alunos podem ser filtrados pela busca das informações gerais ou por cada campo específico que são: nome, curso, matricula e status </li>
-> http://127.0.0.1:8000/api/student/?search=20161230011
 </ul>
+Exemplos: 
+> http://127.0.0.1:8000/api/student/?search=20161230011
+> http://127.0.0.1:8000/api/student/?name=Maria
+> http://127.0.0.1:8000/api/student/?course=Informática
   
 <h3>IFOOD</h3>
 <ul>
