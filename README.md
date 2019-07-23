@@ -6,8 +6,9 @@
 </ul>
 Exemplos: 
  <blockquote> http://127.0.0.1:8000/api/student/?search=20161230011
- <blockquote> http://127.0.0.1:8000/api/student/?name=Maria
- <blockquote> http://127.0.0.1:8000/api/student/?course=Informática
+ http://127.0.0.1:8000/api/student/?name=Maria
+http://127.0.0.1:8000/api/student/?course=Informática
+</blockquote>
   
 <h3>IFOOD</h3>
 <ul>
