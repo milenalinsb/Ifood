@@ -22,4 +22,7 @@ Exemplos:
 </blockquote>
 
 
-Para a solicitação da refeição é necessário preencher os seguintes campos: o tipo da refeição, os alunos que vão usufruir dela, a data e a justificativa para tal solicitação. 
+Para fazer um POST no endpoint de Request os parâmetros necessários são: o tipo da refeição, os alunos que vão usufruir dela, a data e a justificativa para tal solicitação. E os parâmetros opcionais são: o avaliador e a justicativa do mesmo.
+
+
+
