@@ -20,3 +20,5 @@ Exemplos:
  http://127.0.0.1:8000/api/request/?registration=20161230018<br>
  http://127.0.0.1:8000/api/request/?date=2019-05-19
 </blockquote>
+
+
