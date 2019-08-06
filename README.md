@@ -22,3 +22,4 @@ Exemplos:
 </blockquote>
 
 
+Para a solicitação da refeição é necessário preencher os seguintes campos: o tipo da refeição, os alunos que vão usufruir dela, a data e a justificativa para tal solicitação. 
