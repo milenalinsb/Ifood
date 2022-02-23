@@ -1,5 +1,10 @@
 <h1>Ifood</h1>
 
+<h2> Esse readme foi implementado no projeto em que fiz parte durante o estágio no Garagem, do IFPB. </h2>
+<p> Desenvolvemos uma aplicação, o IFood, o que atendia a necessidade de otimizar as requisições de refeições feitas pelos professores para os alunos e turmas que necessitassem desse auxilio quando estivessem que se manter no campus para realização de atividades extras. Essa requisição feita pelo professor é encaminhada à CAEST e, quando confirmada, é repassada para a cantina.</p>
+<p>As informações dos alunos e dos professores foram herdados da API mantida pelo campus no SUAP.</p>
+<p>Abaixo estão descritos alguns filtros utilizados na aplicação e estão divididos entre tipos de pesquisar para filtrar pelos alunos, que é a aplicação EDU e filtrar pelas requisições que é a aplicação IFOOD</p>
+
 <h3>EDU</h3>
 <ul>
 <li>Os alunos podem ser filtrados pela busca das informações gerais ou por cada campo específico que são: nome, curso, matricula e status </li>
